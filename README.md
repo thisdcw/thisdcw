@@ -1,2 +1,2 @@
-[![thisdcw's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisdcw)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisdcw)
+[![thisdcw's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisdcw&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisdcw&show_icons=true&theme=radical)
