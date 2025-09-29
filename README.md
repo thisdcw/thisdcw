@@ -143,8 +143,7 @@ const thisdcw = {
 <div align="center">
   
   [![GitHub](https://img.shields.io/badge/GitHub-thisdcw-181717?style=for-the-badge&logo=github)](https://github.com/thisdcw)
-  [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+  [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thisdcw@gmail.com)
   
 </div>
 
